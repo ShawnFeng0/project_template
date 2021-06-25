@@ -1,0 +1,6 @@
+[submodule "src/lib/uorb"]
+	path = src/lib/uorb
+	url = https://github.com/ShawnFeng0/uorb.git
+[submodule "src/lib/ulog"]
+	path = src/lib/ulog
+	url = https://github.com/ShawnFeng0/ulog.git
