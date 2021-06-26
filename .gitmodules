@@ -4,3 +4,9 @@
 [submodule "src/lib/ulog"]
 	path = src/lib/ulog
 	url = https://github.com/ShawnFeng0/ulog.git
+[submodule "src/lib/vrb"]
+	path = src/lib/vrb
+	url = https://github.com/ShawnFeng0/vrb.git
+[submodule "src/lib/ucfg"]
+	path = src/lib/ucfg
+	url = https://github.com/ShawnFeng0/ucfg.git
